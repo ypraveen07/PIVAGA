@@ -1,0 +1,5 @@
+Collecting torch
+  Downloading torch-1.12.1-cp38-cp38-win_amd64.whl (161.9 MB)
+Requirement already satisfied: typing-extensions in c:\users\sesa692075\appdata\local\programs\python\python38\lib\site-packages (from torch) (4.4.0)
+Installing collected packages: torch
+Successfully installed torch-1.12.1
